@@ -731,7 +731,7 @@ ${bodyLines.map((line: string, index: number) =>
 
                                 {zoomLevel > 1.2 && (
                                     <div className="mt-2 text-xs text-gray-600 bg-white/60 rounded px-2 py-1">
-                                        💡 <strong>Tip:</strong> Click "View Full Page" to see the entire document at once
+                                        💡 <strong>Tip:</strong> Click &ldquo;View Full Page&rdquo; to see the entire document at once
                                     </div>
                                 )}
                             </div>
